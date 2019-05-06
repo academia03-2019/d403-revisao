@@ -1,0 +1,3 @@
+Essa pasta deve ficar na raiz, para o projeto
+funcionar certinho
+podem ignorar esse arquivo é só para a pasta ir para o github

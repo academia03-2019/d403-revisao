@@ -1,0 +1,10 @@
+db.sqlite3
+myvenv/
+__pycache__
+.vscode/
+
+# como não subimos o banco para o github,
+# não precisamos subir as imagens tbm
+# só vou deixar a pasta para vcs verem
+# onde ela fica certinho
+*.jpg
